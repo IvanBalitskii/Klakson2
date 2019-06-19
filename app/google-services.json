@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "867752533024",
+    "firebase_url": "https://klakson-ceeea.firebaseio.com",
+    "project_id": "klakson-ceeea",
+    "storage_bucket": "klakson-ceeea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867752533024:android:2b29d76a6b555b68",
+        "android_client_info": {
+          "package_name": "com.gamefield.klakson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867752533024-ah2bcg7papser0aniek2860gekrqui6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamefield.klakson",
+            "certificate_hash": "50a0ecfe5b2ad7c0cd051bbad17beba562c0af94"
+          }
+        },
+        {
+          "client_id": "867752533024-on7i7mag5joa8enjg1a9o1hope2kv6gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4FpGejtXiko85CbrB_pszsDH4zhvBWU"
+        },
+        {
+          "current_key": "AIzaSyBB4Bmf-tVNP6_zOt5bTVoTZqNB1p2I-ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867752533024-on7i7mag5joa8enjg1a9o1hope2kv6gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867752533024:android:77b7e79db716cca7",
+        "android_client_info": {
+          "package_name": "inc.zachetka.klakson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867752533024-f9vqntd1g013q309dl7svkfjqacq6r2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.zachetka.klakson",
+            "certificate_hash": "50a0ecfe5b2ad7c0cd051bbad17beba562c0af94"
+          }
+        },
+        {
+          "client_id": "867752533024-on7i7mag5joa8enjg1a9o1hope2kv6gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4FpGejtXiko85CbrB_pszsDH4zhvBWU"
+        },
+        {
+          "current_key": "AIzaSyBB4Bmf-tVNP6_zOt5bTVoTZqNB1p2I-ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867752533024-on7i7mag5joa8enjg1a9o1hope2kv6gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
